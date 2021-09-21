@@ -1,3 +1,4 @@
 Hello there
 This is the modified text
 This is double modified file
+To see if files merged or not
